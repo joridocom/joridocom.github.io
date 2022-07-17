@@ -8,4 +8,4 @@ This is a GitHub template repository for a generic Bootstrap template.
 
 ## Copyright
 
-&copy; @mdo 2020-2021 and licensed MIT.
+&copy 2020-2021 and licensed MIT.
