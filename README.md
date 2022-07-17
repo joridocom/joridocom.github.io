@@ -4,7 +4,7 @@
 
 ## About
 
-This is a GitHub template repository for a generic Bootstrap template. 
+This is a GitHub repository for a generic dashboard Bootstrap template. 
 
 ## Copyright
 
